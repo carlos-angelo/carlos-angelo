@@ -1,4 +1,17 @@
-## Hi there 👋
+Estudante de computação, buscando estágio remoto como desenvolvedor na Linguagem C para programação de software básico, firmware, sistemas embarcados e interface com hardware. <br>
+
+Experiência como tradutor, técnico em eletrônica e professor de computação.
+
+Atualmente cursando Ciência de Dados na Univesp e Java para backend na Ada Tech. <br>
+
+LinkedIn: https://www.linkedin.com/in/carlos-angelo/
+
+## Linguagens
+C<br>
+Java<br>
+Python<br>
+
+
 
 <!--
 **carlos-angelo/carlos-angelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
