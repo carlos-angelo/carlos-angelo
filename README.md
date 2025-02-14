@@ -6,10 +6,13 @@ Atualmente cursando Ciência de Dados na Univesp e Java para backend na Ada Tech
 
 LinkedIn: https://www.linkedin.com/in/carlos-angelo/
 
-## Linguagens
-C<br>
-Java<br>
-Python<br>
+### Linguagens
+C
+
+Java
+
+Python
+
 
 
 
