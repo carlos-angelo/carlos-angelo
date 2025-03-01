@@ -1,3 +1,5 @@
+Atualmente em busca de estágio ou emprego como desenvolvedor. 
+
 Apaixonado por ciência e tecnologia desde criança, com o sonho de “inventar o futuro”. 
 
 Cursei ensino médio Técnico em Eletrônica e trabalhei na área por alguns anos. 
