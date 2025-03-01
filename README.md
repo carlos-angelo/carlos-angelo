@@ -1,4 +1,4 @@
-Atualmente em busca de estágio ou emprego como desenvolvedor. 
+Atualmente em busca de estágio ou emprego como desenvolvedor iniciante. 
 
 Apaixonado por ciência e tecnologia desde criança, com o sonho de “inventar o futuro”. 
 
